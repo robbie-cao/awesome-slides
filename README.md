@@ -10,11 +10,27 @@
 - [Web Based Tools](#web-based-tools)
 - [Misc](#misc)
 
-## Web Based Tools
-- [Slides](https://slides.com/)
-- [Sway](https://sway.com)
-- [nodePPT](https://github.com/ksky521/nodePPT)
+## JavaScript And HTML5 Presentation Frameworks
 - [reveal.js](https://github.com/hakimel/reveal.js)
+- [deck.js](https://github.com/imakewebthings/deck.js)
+- [impress.js](https://github.com/impress/impress.js)
+- [jmpress.js](https://github.com/jmpressjs/jmpress.js)
+- [remark.js](https://github.com/gnab/remark)
+- [shower](https://github.com/shower/shower)
+- [nodePPT](https://github.com/ksky521/nodePPT)
+- [better-slide-show](https://github.com/leemark/better-simple-slideshow)
+- [dzslides](https://github.com/paulrouget/dzslides)
+- [Flowtime.js](https://github.com/marcolago/flowtime.js)
+- [Bespoke.js](https://github.com/bespokejs/bespoke)
+- [CSSS](https://github.com/LeaVerou/CSSS)
+
+## Web Based Slideshow
+- [Slides](https://slides.com/)
+- [strut](http://strut.io)
+
+## Flash Based Slideshow
+- [Prezi](https://prezi.com)
 
 ## Misc
-
+- [Google Slides](https://www.google.com/slides/about/)
+- [Sway](https://sway.com)
