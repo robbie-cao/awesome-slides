@@ -7,6 +7,8 @@
 *All contributions welcome. Feel free to contribute. Please read the [guidelines](contributing.md) before contributing.*
 
 ## Table of Contents
+- [Web Based Tools](#web-based-tools)
+- [Misc](#misc)
 
 ## Web Based Tools
 - [Slides](https://slides.com/)
