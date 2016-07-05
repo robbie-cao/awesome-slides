@@ -8,4 +8,11 @@
 
 ## Table of Contents
 
+## Web Based Tools
+- [Slides](https://slides.com/)
+- [Sway](https://sway.com)
+- [nodePPT](https://github.com/ksky521/nodePPT)
+- [reveal.js](https://github.com/hakimel/reveal.js)
+
 ## Misc
+
