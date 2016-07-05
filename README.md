@@ -7,7 +7,9 @@
 *All contributions welcome. Feel free to contribute. Please read the [guidelines](contributing.md) before contributing.*
 
 ## Table of Contents
-- [Web Based Tools](#web-based-tools)
+- [JavaScript And HTML5 Presentation Frameworks](#javascript-and-html5-presentation-frameworks)
+- [Web Based Slideshow](#web-based-slideshow)
+- [Flash Based Slideshow](#flash-based-slideshow)
 - [Misc](#misc)
 
 ## JavaScript And HTML5 Presentation Frameworks
