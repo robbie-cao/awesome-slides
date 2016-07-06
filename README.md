@@ -37,3 +37,7 @@
 - [Google Slides](https://www.google.com/slides/about/)
 - [Sway](https://sway.com)
 - [vimdeck](https://github.com/tybenz/vimdeck) - presentation inside Vim
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
