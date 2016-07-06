@@ -36,3 +36,4 @@
 ## Misc
 - [Google Slides](https://www.google.com/slides/about/)
 - [Sway](https://sway.com)
+- [vimdeck](https://github.com/tybenz/vimdeck) - presentation inside Vim
