@@ -10,6 +10,7 @@
 - [JavaScript And HTML5 Presentation Frameworks](#javascript-and-html5-presentation-frameworks)
 - [Web Based Slideshow](#web-based-slideshow)
 - [Flash Based Slideshow](#flash-based-slideshow)
+- [Command Line Tool](#command-line-tool)
 - [Misc](#misc)
 
 ## JavaScript And HTML5 Presentation Frameworks
@@ -32,6 +33,9 @@
 
 ## Flash Based Slideshow
 - [Prezi](https://prezi.com)
+
+## Command Line Tool
+- [S9](https://github.com/slideshow-s9/slideshow) - slide show (S9) command line tool in ruby
 
 ## Misc
 - [Google Slides](https://www.google.com/slides/about/)
