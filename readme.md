@@ -26,6 +26,7 @@
 - [Flowtime.js](https://github.com/marcolago/flowtime.js)
 - [Bespoke.js](https://github.com/bespokejs/bespoke)
 - [CSSS](https://github.com/LeaVerou/CSSS)
+- [Spectacle](https://github.com/FormidableLabs/spectacle)
 
 ## Web Based Slideshow
 - [Slides](https://slides.com/)
