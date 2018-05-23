@@ -31,6 +31,7 @@
 ## Web Based Slideshow
 - [Slides](https://slides.com/)
 - [strut](http://strut.io)
+- [GitPitch](https://gitpitch.com)
 
 ## Flash Based Slideshow
 - [Prezi](https://prezi.com)
