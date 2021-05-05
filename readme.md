@@ -27,6 +27,7 @@
 - [Bespoke.js](https://github.com/bespokejs/bespoke)
 - [CSSS](https://github.com/LeaVerou/CSSS)
 - [Spectacle](https://github.com/FormidableLabs/spectacle)
+- [Slidev](https://github.com/slidevjs/slidev)
 
 ## Web Based Slideshow
 - [Slides](https://slides.com/)
